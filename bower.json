@@ -1,0 +1,17 @@
+{
+    "name": "oleoscriptswashcaps-googlefont",
+    "license": "OFL",
+    "authors": [
+        "soytutype fonts"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/oleoscriptswashcaps-bower.git"
+    },
+    "description": "Oleo Script Swash Caps font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
